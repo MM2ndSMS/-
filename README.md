@@ -1,5 +1,5 @@
-## define SONIC_TRIG 10
-# define SONIC_ECHO 11
+#define SONIC_TRIG 10
+#define SONIC_ECHO 11
 
 void setup() {
   Serial.begin(9600);
